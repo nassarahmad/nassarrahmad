@@ -13,3 +13,5 @@
 https://img.shields.io/badge/just%20the%20message-8A2BE2
 %3A
 #F40D12
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
