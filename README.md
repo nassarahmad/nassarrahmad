@@ -1,6 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
