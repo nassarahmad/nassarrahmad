@@ -12,3 +12,4 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 https://img.shields.io/badge/just%20the%20message-8A2BE2
 %3A
+#F40D12
